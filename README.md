@@ -38,37 +38,17 @@ The goal is to minimize the cost function (Mean Squared Error).
 
 ---
 
-## 📂 Project Structure
-
-Linear-Regression/
-│
-├── linear_regression.py
-├── requirements.txt
-└── README.md
-
----
-
 ## 🚀 Installation
 
-1. Clone the repository:
-
-git clone https://github.com/your-username/linear-regression.git
-
-2. Navigate to project folder:
-
-cd linear-regression
-
-3. Install required libraries:
-
-pip install -r requirements.txt
+1. Clone the repository : git clone https://github.com/your-username/linear-regression.git
+2. Navigate to project folder : cd linear-regression
+3. Install required libraries : pip install -r requirements.txt
 
 ---
 
 ## ▶️ How to Run
 
-Run the Python file:
-
-python linear_regression.py
+Run the Python file : python linear_regression.py
 
 ---
 
